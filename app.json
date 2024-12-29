@@ -1,6 +1,6 @@
 {
-    "name": "laughing",
-    "description": "faust",
+    "name": "reim",
+    "description": "For five",
     "env": {
         "PASSWORD": {
             "description": "PASSWORD",
